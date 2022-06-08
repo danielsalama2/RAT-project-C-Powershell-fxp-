@@ -31,6 +31,7 @@ namespace WindowsFormsApp21
 
 
 
+        public string userName = System.Security.Principal.WindowsIdentity.GetCurrent().Name;
 
         public Form1()
         {
@@ -45,6 +46,8 @@ namespace WindowsFormsApp21
             port.Text = "443";
 
             MessageBox.Show("Created by Expl0itics Fan from FXP \n ניתן למצוא את הקוד הפתוח של התוכנה בגיטהאב שלי \n נא לצאת מהתוכנה רק דרך כפתור היציאה שהגדרתי.");
+
+            
 
         }
 
@@ -80,7 +83,7 @@ namespace WindowsFormsApp21
                     map[ip2] = client1;
                     textBox1.Invoke((MethodInvoker)delegate
                     {
-                        textBox1.Text += ("Connection has been maded from " + ip2 + newLine);
+                        textBox1.Text += ("Connection has been maded from " + ip2 + userName + newLine);
                     });
                     Thread clientThread = new Thread(new ThreadStart(() => User(client1)));
                     clientThread.Start();
@@ -131,7 +134,7 @@ namespace WindowsFormsApp21
 
                     textBox1.Invoke((MethodInvoker)delegate
                     {
-                        textBox1.Text += ip2 + " >> " + System.Text.Encoding.ASCII.GetString(msg, 0, size) + newLine;
+                        textBox1.Text += userName + " " + ip2 + " >> " + System.Text.Encoding.ASCII.GetString(msg, 0, size) + newLine;
                     });
                     
                 }
