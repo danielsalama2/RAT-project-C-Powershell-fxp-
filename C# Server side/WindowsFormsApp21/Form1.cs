@@ -83,7 +83,7 @@ namespace WindowsFormsApp21
                     map[ip2] = client1;
                     textBox1.Invoke((MethodInvoker)delegate
                     {
-                        textBox1.Text += ("Connection has been maded from " + ip2 + userName + newLine);
+                        textBox1.Text += ("Connection has been maded from " + ip2 + " " + userName + newLine);
                     });
                     Thread clientThread = new Thread(new ThreadStart(() => User(client1)));
                     clientThread.Start();
