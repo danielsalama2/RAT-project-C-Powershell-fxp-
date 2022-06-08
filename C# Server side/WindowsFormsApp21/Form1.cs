@@ -216,6 +216,7 @@ namespace WindowsFormsApp21
 
         private void treaToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            socketServer.Close();
             this.Close();
         }
 
