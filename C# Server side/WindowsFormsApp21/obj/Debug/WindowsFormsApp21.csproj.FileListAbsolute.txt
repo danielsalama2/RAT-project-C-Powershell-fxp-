@@ -1,0 +1,17 @@
+C:\Users\Ronit\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ronit\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Form1.resources
+C:\Users\Ronit\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Properties.Resources.resources
+C:\Users\Ronit\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.GenerateResource.cache
+C:\Users\Ronit\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.CoreCompileInputs.cache
+C:\Users\Ronit\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\RAT-project-C-powershell-main\C# server side\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe.config
+C:\Users\Owner\Desktop\RAT-project-C-powershell-main\C# server side\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe
+C:\Users\Owner\Desktop\RAT-project-C-powershell-main\C# server side\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.pdb
+C:\Users\Owner\Desktop\RAT-project-C-powershell-main\C# server side\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\RAT-project-C-powershell-main\C# server side\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Desktop\RAT-project-C-powershell-main\C# server side\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Form1.resources
+C:\Users\Owner\Desktop\RAT-project-C-powershell-main\C# server side\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Properties.Resources.resources
+C:\Users\Owner\Desktop\RAT-project-C-powershell-main\C# server side\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\RAT-project-C-powershell-main\C# server side\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\RAT-project-C-powershell-main\C# server side\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.exe
+C:\Users\Owner\Desktop\RAT-project-C-powershell-main\C# server side\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.pdb
